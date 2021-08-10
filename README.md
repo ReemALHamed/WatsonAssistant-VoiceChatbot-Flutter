@@ -163,3 +163,14 @@ My voice unfortunately didn't get recorded so i wrote what i said on the video:
 https://user-images.githubusercontent.com/85634099/128948630-038652a0-003b-4177-bda8-83c2781d28be.mp4
 
 
+## Final Touches
+I added an icon for the app and changed the app name to 'Smarty' , i also added [flutter_native_splash](https://pub.dev/packages/flutter_native_splash) screen to launch once the app runs.
+
+### App Icon
+![image](https://user-images.githubusercontent.com/85634099/128949680-65aa56bf-c438-41bf-b15c-9e1d4d57c999.png)
+
+### Fultter Native Splash
+https://user-images.githubusercontent.com/85634099/128949543-6fdf354f-8996-49ae-9f0f-76fa49de3510.mp4
+
+
+
