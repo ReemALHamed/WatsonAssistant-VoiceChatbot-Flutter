@@ -146,5 +146,20 @@ final bot = IbmWatsonAssistant(auth);
 ```
 
 ## Final Result
+After I added the design I run the chatbot and start chatting, i had a small chat but you can try run my project and have a longer conversations with 17 intents in the bot, you can ask:
+* about the company
+* company achievements
+* ambassador
+* company location
+* contact info
+* are you human or robot
+* what is you name
+* what do you do
+* company clients
+* company robots
+
+My voice unfortunately didn't get recorded so i wrote what i said on the video:
+
+https://user-images.githubusercontent.com/85634099/128948630-038652a0-003b-4177-bda8-83c2781d28be.mp4
 
 
