@@ -2,6 +2,13 @@
 
 In this project I'm using IBM Watson Assistant integrated in a Flutter application to create a voice chatbot, this chatbot is a customer service bot for [smart methods](https://s-m.com.sa/en.html).
 
+## Before we start let's have a quick chat !
+Just click on the mic icon when you want to speak and smarty will automatically detect when you are done speaking and replay back :)
+
+https://user-images.githubusercontent.com/85634099/140885518-11acdf9f-440d-41ce-964f-677ffd63ee19.mp4
+
+
+
 ## Chatbot Flow
 This project has multiple stages to go through so make sure each step is working before moving to the next, Start by creating your Flutter app then follow these steps in order to create the voice chat:
 1) Convert user's speech to text.
@@ -158,9 +165,7 @@ After I added the design I run the chatbot and start chatting, i had a small cha
 * company clients
 * company robots
 
-My voice unfortunately didn't get recorded so i wrote what i said on the video:
 
-https://user-images.githubusercontent.com/85634099/128948630-038652a0-003b-4177-bda8-83c2781d28be.mp4
 
 
 ## Final Touches
